@@ -1,0 +1,6 @@
+train: E:/Kuntal/project_idea/my_Projects/Human Bone Fractures Detection/Dataset/train/images
+val: E:/Kuntal/project_idea/my_Projects/Human Bone Fractures Detection/Dataset/valid/images
+test: E:/Kuntal/project_idea/my_Projects/Human Bone Fractures Detection/Dataset/test/images
+
+nc: 10
+names: ['Comminuted', 'Greenstick', 'Healthy', 'Linear', 'Oblique Displaced', 'Oblique', 'Segmental', 'Spiral', 'Transverse Displaced', 'Transverse']
