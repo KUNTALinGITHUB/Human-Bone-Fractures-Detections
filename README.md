@@ -83,12 +83,7 @@ MIT License
 🤝 Contributions
 Contributions and suggestions are welcome. Fork the repo and submit a pull request!
 
-yaml
 
-
----
-
-Let me know if you'd like me to generate a sample image or diagram to use in the LinkedIn post or README!
 
 
 
