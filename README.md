@@ -1,3 +1,4 @@
+![val_batch2_pred](https://github.com/user-attachments/assets/81cab880-2aad-40ab-b5ef-7574a0f062a2)
 # Human-Bone-Fractures-Detections
 
 
